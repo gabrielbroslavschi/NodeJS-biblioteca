@@ -1,0 +1,1 @@
+realizando um teste de arquivo de texto [<input>] (https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/Input)
